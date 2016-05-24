@@ -1,4 +1,5 @@
 # HelloFromFionaPangilinan
+...
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -16,3 +17,5 @@ int main(){
 	return 0;
 	
 }
+...
+![](screenshot1.jpg)

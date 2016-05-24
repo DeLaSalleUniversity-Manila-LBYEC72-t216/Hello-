@@ -1,9 +1,9 @@
 # HelloFromFionaPangilinan
-...
+
 #include <stdio.h>
 #include <stdlib.h>
 
-
+```
 int main(){
 	printf("\t @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 	printf("\n\n \t \t Fiona Marian L. Pangilinan");
@@ -17,5 +17,5 @@ int main(){
 	return 0;
 	
 }
-...
+```
 ![](screenshot1.jpg)
